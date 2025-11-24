@@ -8,7 +8,7 @@ First Available Year:
 2025
 
 Required Hardware:
-Standard personal computer with ≥16 GB RAM and ≥4 GB available storage; Windows 10/11 or Linux 64-bit OS.
+Standard personal computer with ≥16 GB RAM and ≥4 GB available storage; Windows 10/11.
 
 Required Software:
 Python 3.10 or higher with libraries NumPy, Pandas, SciPy, Matplotlib, GeoPandas, and Rasterio.
